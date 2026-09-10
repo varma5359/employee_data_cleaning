@@ -541,10 +541,9 @@ Possible future improvements include:
 
 ## Author
 
-**Karthik Yalla**
+**RaviVarma Yalla**
 
 B.Tech — Computer Science and Engineering
 
-GitHub: `https://github.com/yoyo9922`
+GitHub: `https://github.com/varma5359`
 
-LinkedIn: `https://linkedin.com/in/karthikyalla`
