@@ -1,0 +1,21 @@
+Employee ID,Employee Name,Age,Gender,Department,Job Title,Email,Phone,City,Joining Date,Joining Time,Salary,Bonus,Employment Status,Manager ID,valid,rejection_reason,Annual Salary
+E001,Rahul Kumar,25.0,Male,Engineering,Software Engineer,rahul@gmail.com,9876543210,Hyderabad,2024-01-15,09:30:00,650000.0,50000.0,Active,M001,True,,650000.0
+E005,Sneha,29.0,Female,Finance,Accountant,sneha@gmail.com,8888888888,Chennai,2024-03-05,08:30:00,480000.0,30000.0,Active,M003,True,,480000.0
+E007,Meena Patel,26.0,Female,HR,Hr Executive,meena@gmail.com,6666666666,Bengaluru,2024-05-20,09:30:00,550000.0,40000.0,Active,M002,True,,550000.0
+E008,Ravi Kumar,24.0,Male,Sales,Sales Executive,ravi@gmail.com,5555555555,Chennai,2024-06-20,10:00:00,550000.0,35000.0,Active,M004,True,,550000.0
+E010,Priya Reddy,27.0,Female,Engineering,Developer,priya@gmail.com,9876543210,Hyderabad,2024-02-15,10:00:00,650000.0,25000.0,Active,M001,True,,650000.0
+E011,Vikram Singh,35.0,Male,Finance,Senior Accountant,vikram@gmail.com,9988776655,Mumbai,2022-11-10,08:45:00,825000.0,75000.0,Inactive,M003,True,,825000.0
+E012,Neha Sharma,28.0,Female,HR,Hr Manager,neha@gmail.com,9988776655,Bengaluru,2021-10-12,09:00:00,900000.0,100000.0,Active,M002,True,,900000.0
+E013,Ramesh,42.0,Male,Sales,Sales Manager,ramesh@gmail.com,8877665544,Chennai,2020-08-25,09:30:00,1050000.0,120000.0,Active,M004,True,,1050000.0
+E014,Pooja Verma,23.0,Female,Engineering,Junior Developer,pooja@gmail.com,7766554433,Hyderabad,2025-01-05,10:00:00,450000.0,20000.0,Active,M001,True,,450000.0
+E016,Lakshmi Devi,30.0,Female,Finance,Finance Analyst,lakshmi@gmail.com,5544332211,Mumbai,2023-06-15,09:00:00,620000.0,40000.0,Active,M003,True,,620000.0
+E017,Suresh,38.0,Male,HR,Recruiter,suresh@gmail.com,4433221100,Bengaluru,2023-05-13,09:45:00,550000.0,,Active,M002,True,,550000.0
+E019,Naveen Reddy,33.0,Male,Engineering,Tech Lead,naveen@gmail.com,2211009988,Hyderabad,2024-12-10,09:00:00,1200000.0,150000.0,Active,M001,True,,1200000.0
+E020,Anjali,29.0,Female,Finance,Accountant,anjali@gmail.com,1100998877,Mumbai,2024-11-20,08:30:00,580000.0,35000.0,Active,M003,True,,580000.0
+E022,Manoj Patel,45.0,Male,Engineering,Senior Engineer,manoj@gmail.com,9998887776,Hyderabad,2019-04-15,08:00:00,1150000.0,100000.0,Active,M001,True,,1150000.0
+E024,Karthik,27.0,Male,Engineering,Developer,karthik@gmail.com,7776665554,Hyderabad,2024-06-18,09:00:00,600000.0,30000.0,Active,M001,True,,600000.0
+E025,Rekha Nair,31.0,Female,HR,Recruiter,rekha@gmail.com,6665554443,Bengaluru,2023-10-01,10:15:00,590000.0,45000.0,Inactive,M002,True,,590000.0
+E026,Vijay Kumar,39.0,Male,Sales,Sales Executive,vijay@gmail.com,5554443332,Chennai,2022-07-15,09:45:00,720000.0,50000.0,Active,M004,True,,720000.0
+E027,Deepak,28.0,Male,Engineering,Developer,deepak@gmail.com,4443332221,Hyderabad,2024-03-12,09:30:00,720000.0,40000.0,Active,M001,True,,720000.0
+E028,Riya Sharma,26.0,Female,Finance,Accountant,riya@gmail.com,3332221110,Mumbai,2024-04-20,08:45:00,525000.0,25000.0,Active,M003,True,,525000.0
+E029,Raj,34.0,Male,Sales,Sales Manager,raj@gmail.com,2221110009,Chennai,2021-02-28,09:00:00,950000.0,90000.0,Active,M004,True,,950000.0

@@ -1,0 +1,22 @@
+Department ID,Department Name,Department Head,Location,Employee Count,Annual Budget,Created Date,Status
+D001,Engineering," Rajesh Kumar ",R001,Hyderabad,25,"₹2,50,00,000",2020-01-15,Active
+D002,HR,PRIYA123,R002,Bengaluru,12,"₹80,00,000",15/02/2020,active
+D003,Finance,"Anita Sharma",R003,Mumbai,10,"1.2 Crore",2020/03/10,ACTIVE
+D004,Sales,"John Doe",R004,Chennai,18,"₹1,50,00,000",01-04-2020,Active
+D005,engineering,"Rahul Singh",R001,Hyderabad,25,"25000000 INR",2020-01-15,active
+D006,Human Resources,,R002,Bengaluru,12,unknown,2020-02-15,Active
+D007,FINANCE,"Meena Patel",R003,MUMBAI,10,"₹1,20,00,000",March 5 2020,ACTIVE
+D008,SALES,"Vikram!!!",R004,chennai,18,"15000000",2020-04-01,active
+D009,Operations,"Suresh Rao",R005,Hyderabad,8,"₹70,00,000",2021-06-10,Active
+D010,IT,"Kiran123",R006,Hyderabad,6,"75 LPA",2021-08-20,Active
+D010,IT,"Kiran123",R006,Hyderabad,6,"75 LPA",2021-08-20,Active
+D011,Legal,"Pooja Verma",R007,Bengaluru,4,"₹40,00,000",2022-01-10,Inactive
+D012,Marketing,"Arjun Reddy",R008,Mumbai,7,"55 LPA",2022-05-15,active
+D013,Support,"Naveen Kumar",R009,Chennai,15,"₹65,00,000",2022-09-01,Active
+D014,engineering,"Deepak",R001,HYDERABAD,25,"₹2.5 Crore",2020-01-15,ACTIVE
+D015,,unknown,R010,unknown,unknown,unknown,unknown
+D016,Product,"Riya Sharma",R011,Bengaluru,9,"₹90,00,000",2023-03-20,Active
+D017,Quality,"Raj!!!",R012,Chennai,-5,"₹35,00,000",2023-04-10,active
+D018,Administration,"Lakshmi Devi",R013,Mumbai,5,"₹30,00,000",2023-07-15,Active
+D019,Operations,"Manoj Patel",R005,Hyderabad,8,"7000000 INR",2021-06-10,ACTIVE
+D020,Finance,"Swathi Reddy",R003,Mumbai,10,"₹1,20,00,000",2020-03-10,Active

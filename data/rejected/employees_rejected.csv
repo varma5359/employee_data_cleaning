@@ -1,0 +1,11 @@
+Employee ID,Employee Name,Age,Gender,Department,Job Title,Email,Phone,City,Joining Date,Joining Time,Salary,Bonus,Employment Status,Manager ID,valid,rejection_reason,Annual Salary
+E002,Priya,27.0,Female,Engineering,Developer,priya@gmail,9876543210,Hyderabad,2024-02-15,10:00:00,650000.0,,Active,M001,False,Invalid Email,650000.0
+E003,,31.0,Female,HR,Hr Executive,anita@gmail.com,,Bengaluru,2023-12-01,09:45:00,520000.0,25000.0,Active,M002,False,Missing Employee Name,520000.0
+E004,John Doe,,Male,Engineering,Software Engineer,john@gmail.com,9999999999,Hyderabad,2024-01-03,09:15:00,70000.0,5000.0,Active,M001,False,Invalid Age,70000.0
+E006,Arjun Reddy,,Male,Sales,Sales Executive,arjun@gmail.com,7777777777,Chennai,2024-04-10,09:00:00,500000.0,,Active,M004,False,Invalid Age,500000.0
+E009,Kiran,,Male,Engineering,Developer,kiran@gmail.com,4444444444,Hyderabad,2024-07-01,09:00:00,700000.0,50000.0,Active,M001,False,Invalid Age,700000.0
+E015,Amit Kumar,,Male,Engineering,Developer,amit@gmail.com,6655443322,Hyderabad,,09:15:00,575000.0,25000.0,Active,M001,False,Invalid Age; Invalid Joining Date,575000.0
+E018,Divya Rao,26.0,Female,HR,Hr Executive,divya@gmail,3322110099,Bengaluru,2024-09-10,09:30:00,540000.0,30000.0,Active,M002,False,Invalid Email,540000.0
+E021,,,,,,,,,,,,,,,False,Missing Employee Name; Invalid Age; Invalid Joining Date,
+E023,Swathi Reddy,24.0,Female,Finance,Financial Analyst,swathi@gmail.com,8887776665,Mumbai,,09:15:00,600000.0,25000.0,Active,M003,False,Invalid Joining Date,600000.0
+E030,Sanjay Rao,,Male,Engineering,Software Engineer,sanjay@gmail.com,1110009998,Hyderabad,2024-01-01,09:15:00,675000.0,35000.0,Active,M001,False,Invalid Age,675000.0

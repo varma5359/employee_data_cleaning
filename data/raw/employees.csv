@@ -1,0 +1,32 @@
+Employee ID,Employee Name,Age,Gender,Department,Job Title,Email,Phone,City,Joining Date,Joining Time,Salary,Bonus,Employment Status,Manager ID
+E001," Rahul Kumar ",25,Male,Engineering,Software Engineer,rahul@gmail.com,9876543210,Hyderabad,2024-01-15,09:30 AM,"₹6,50,000","50,000",Active,M001
+E002,"PRIYA123",27,F,engineering,Developer,priya@gmail,98765 43210,hyderabad,15/02/2024,10:00,"650000 INR",unknown,active,M001
+E003,,31,Female,HR,HR Executive,anita@gmail.com,,Bengaluru,2023/12/01,9:45 AM,"₹5,20,000","25,000",Active,M002
+E004," John Doe ",abc,M,Engineering,Software Engineer,john@gmail.com,9999999999,HYDERABAD,01-03-2024,09:15,"$70000","5000",ACTIVE,M001
+E005,"Sneha@123",29,Female,Finance,Accountant,sneha@gmail.com,8888888888,Chennai,March 5 2024,8:30 AM,"₹4.8 LPA","30K",Active,M003
+E006,"Arjun Reddy",150,Male,Sales,Sales Executive,arjun@gmail.com,7777777777,Chennai,2024-04-10,09:00,"500000","unknown",Active,M004
+E007,"Meena Patel",26,FEMALE,HR,HR Executive,meena@gmail.com,6666666666,Bengaluru,2024-05-20,09:30,"₹5,50,000","40,000",active,M002
+E008," Ravi Kumar ",24,male,Sales,Sales Executive,ravi@gmail.com,5555555555,chennai,20/06/2024,10 AM,"5.5 LPA","35,000",ACTIVE,M004
+E009,"Kiran",unknown,Male,Engineering,Developer,kiran@gmail.com,4444444444,Hyderabad,2024-07-01,09:00,"₹7,00,000","50,000",Active,M001
+E010,"Priya Reddy",27,Female,Engineering,Developer,priya@gmail.com,9876543210,Hyderabad,2024-02-15,10:00,"650000","25,000",Active,M001
+E010,"Priya Reddy",27,Female,Engineering,Developer,priya@gmail.com,9876543210,Hyderabad,2024-02-15,10:00,"650000","25,000",Active,M001
+E011,"  Vikram Singh  ",35,Male,finance,Senior Accountant,vikram@gmail.com,+91-9988776655,Mumbai,2022-11-10,08:45 AM,"₹8,25,000","75,000",Inactive,M003
+E012,"Neha Sharma",28,F,Human Resources,HR Manager,neha@gmail.com,9988776655,Bengaluru,10/12/2021,09:00 AM,"9 LPA","1,00,000",Active,M002
+E013,"Ramesh!!!",42,Male,SALES,Sales Manager,ramesh@gmail.com,8877665544,CHENNAI,2020-08-25,09:30,"₹10,50,000","1.2 LPA",ACTIVE,M004
+E014,"Pooja Verma",23,female,Engineering,Junior Developer,pooja@gmail.com,7766554433,Hyderabad,2025-01-05,10 AM,"450000","20000",active,M001
+E015,"Amit Kumar",-5,Male,Engineering,Developer,amit@gmail.com,6655443322,Hyderabad,2024-02-30,09:15,"₹5,75,000","25000",Active,M001
+E016,"Lakshmi Devi",30,FEMALE,Finance,Finance Analyst,lakshmi@gmail.com,5544332211,Mumbai,2023-06-15,09:00 AM,"₹6.2 LPA","40K",Active,M003
+E017,"Suresh 123",38,M,Human Resources,Recruiter,suresh@gmail.com,4433221100,Bengaluru,2023-13-05,09:45 AM,"550000","unknown",active,M002
+E018,"Divya Rao",26,Female,HR,HR Executive,divya@gmail,3322110099,Bengaluru,2024-09-10,09:30 AM,"₹5,40,000","30,000",Active,M002
+E019,"Naveen Reddy",33,Male,Engineering,Tech Lead,naveen@gmail.com,2211009988,hyderabad,12-10-2024,09:00,"₹12,00,000","1,50,000",ACTIVE,M001
+E020,"  Anjali  ",29,Female,Finance,Accountant,anjali@gmail.com,1100998877,Mumbai,2024/11/20,08:30 AM,"₹5,80,000","35,000",Active,M003
+E021,"Unknown",unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+E022,"Manoj Patel",45,male,Engineering,Senior Engineer,manoj@gmail.com,9998887776,Hyderabad,2019-04-15,08:00 AM,"₹11,50,000","1,00,000",Active,M001
+E023,"Swathi Reddy",24,F,Finance,Financial Analyst,swathi@gmail.com,8887776665,Mumbai,2024-05-32,09:15 AM,"6 LPA","25000",Active,M003
+E024,"Karthik123",27,Male,Engineering,Developer,karthik@gmail.com,7776665554,HYDERABAD,2024-06-18,9:00 AM,"₹6,00,000","30000",Active,M001
+E025,"Rekha Nair",31,Female,HR,Recruiter,rekha@gmail.com,6665554443,Bengaluru,2023-10-01,10:15 AM,"₹5,90,000","45,000",Inactive,M002
+E026,"Vijay Kumar",39,Male,Sales,Sales Executive,vijay@gmail.com,5554443332,Chennai,2022-07-15,09:45,"₹7,20,000","50,000",ACTIVE,M004
+E027," Deepak ",28,male,engineering,Developer,deepak@gmail.com,4443332221,Hyderabad,2024-03-12,09:30 AM,"720000 INR","40000",active,M001
+E028,"Riya Sharma",26,Female,Finance,Accountant,riya@gmail.com,3332221110,Mumbai,2024-04-20,08:45 AM,"₹5,25,000","25,000",Active,M003
+E029,"Raj!!!",34,M,Sales,Sales Manager,raj@gmail.com,2221110009,Chennai,2021-02-28,09:00 AM,"₹9,50,000","90,000",Active,M004
+E030,"Sanjay Rao",200,Male,Engineering,Software Engineer,sanjay@gmail.com,1110009998,Hyderabad,2024-01-01,09:15 AM,"₹6,75,000","35,000",Active,M001

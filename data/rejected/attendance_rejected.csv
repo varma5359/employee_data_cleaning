@@ -1,0 +1,6 @@
+Attendance ID,Employee ID,Employee Name,Attendance Date,Check In,Check Out,Work Hours,Status,Location,Shift,valid,rejection_reason
+A003,E003,,2026-01-05,09:45:00,18:00:00,8.25,Present,Bengaluru,Morning,False,Missing Employee Name
+A021,E021,,,,,,Absent,,,False,Missing Employee Name; Invalid Attendance Date; Invalid Work Hours
+A031,E999,Ghost Employee,2026-01-13,09:00:00,18:00:00,9.0,Present,Hyderabad,Morning,False,Unknown Employee ID
+A032,E001,Rahul Kumar,,09:15:00,18:20:00,9.08,Present,Hyderabad,Morning,False,Invalid Attendance Date
+A034,E003,Anita Sharma,2026-01-14,09:45:00,18:00:00,,Present,Bengaluru,Morning,False,Invalid Work Hours

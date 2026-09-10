@@ -1,0 +1,25 @@
+# Rules used by the employee data cleaning pipeline
+
+name:
+  remove_numbers: true
+  remove_symbols: true
+  title_case: true
+
+age:
+  min: 18
+  max: 65
+
+gender:
+  allowed:
+    - Male
+    - Female
+
+status:
+  allowed:
+    - Active
+    - Inactive
+
+missing_values:
+  - unknown
+  - UNKNOWN
+  - ""

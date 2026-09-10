@@ -1,0 +1,4 @@
+Department ID,Department Name,Department Head,Location,Employee Count,Annual Budget,Created Date,Status,valid,rejection_reason
+Human Resources,,R,Bengaluru,12.0,,2020-02-15,Active,False,Missing Department Name
+,,R,,,,,,False,Missing Department ID; Missing Department Name; Invalid Employee Count
+Quality,Raj!!!,R,Chennai,,3500000.0,2023-04-10,Active,False,Invalid Employee Count

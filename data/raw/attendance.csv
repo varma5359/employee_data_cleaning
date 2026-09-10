@@ -1,0 +1,37 @@
+Attendance ID,Employee ID,Employee Name,Attendance Date,Check In,Check Out,Work Hours,Status,Location,Shift
+A001,E001," Rahul Kumar ",2026-01-05,09:15 AM,06:20 PM,9.08,Present,Hyderabad,Morning
+A002,E002,"PRIYA123",05/01/2026,10:05,07:10 PM,9.08,present,hyderabad,Morning
+A003,E003,,2026/01/05,09:45 AM,06:00 PM,8.25,Present,Bengaluru,Morning
+A004,E004," John Doe ",01-05-2026,09:30,18:15,8.75,PRESENT,HYDERABAD,Morning
+A005,E005,"Sneha@123",Jan 05 2026,08:50 AM,05:45 PM,8.92,Present,Chennai,Morning
+A006,E006,"Arjun Reddy",2026-01-05,10 AM,07:30 PM,9.50,Present,Chennai,General
+A007,E007,"Meena Patel",2026-01-06,09:20 AM,06:15 PM,8.92,present,Bengaluru,Morning
+A008,E008," Ravi Kumar ",06/01/2026,10:10 AM,07:00 PM,8.83,Present,chennai,Morning
+A009,E009,Kiran,2026-01-06,09:00,06:00 PM,9.00,Present,Hyderabad,Morning
+A010,E010,"Priya Reddy",2026-01-06,10:00 AM,07:05 PM,9.08,Present,Hyderabad,Morning
+A010,E010,"Priya Reddy",2026-01-06,10:00 AM,07:05 PM,9.08,Present,Hyderabad,Morning
+A011,E011,"  Vikram Singh  ",07/01/2026,08:45 AM,05:30 PM,8.75,Present,Mumbai,Morning
+A012,E012,"Neha Sharma",2026/01/07,09:05,06:10 PM,9.08,PRESENT,Bengaluru,Morning
+A013,E013,"Ramesh!!!",2026-01-07,09:40 AM,06:30 PM,8.83,present,CHENNAI,Morning
+A014,E014,"Pooja Verma",08-01-2026,10:15 AM,07:20 PM,9.08,Present,Hyderabad,Morning
+A015,E015,"Amit Kumar",-01-2026,09:30 AM,06:00 PM,8.50,Present,Hyderabad,Morning
+A016,E016,"Lakshmi Devi",2026-01-08,08:55 AM,05:40 PM,8.75,Present,Mumbai,Morning
+A017,E017,"Suresh 123",2026-01-09,09:20 AM,06:10 PM,8.83,Present,Bengaluru,Morning
+A018,E018,"Divya Rao",09/01/2026,09:35 AM,06:20 PM,8.75,Present,Bengaluru,Morning
+A019,E019,"Naveen Reddy",2026-01-09,09:00 AM,06:30 PM,9.50,Present,hyderabad,Morning
+A020,E020,"  Anjali  ",10/01/2026,08:40 AM,05:35 PM,8.92,Present,Mumbai,Morning
+A021,E021,Unknown,unknown,unknown,unknown,unknown,Absent,unknown,unknown
+A022,E022,"Manoj Patel",2026-01-10,08:30 AM,05:45 PM,9.25,Present,Hyderabad,Morning
+A023,E023,"Swathi Reddy",2026-01-11,09:15 AM,06:15 PM,9.00,present,Mumbai,Morning
+A024,E024,"Karthik123",11/01/2026,09:05 AM,06:05 PM,9.00,Present,HYDERABAD,Morning
+A025,E025,"Rekha Nair",2026-01-11,10:00 AM,06:30 PM,8.50,Present,Bengaluru,Morning
+A026,E026,"Vijay Kumar",2026-01-12,09:30 AM,06:00 PM,8.50,PRESENT,Chennai,Morning
+A027,E027," Deepak ",12/01/2026,09:10 AM,06:20 PM,9.17,Present,Hyderabad,Morning
+A028,E028,"Riya Sharma",2026-01-12,08:50 AM,05:45 PM,8.92,Present,Mumbai,Morning
+A029,E029,"Raj!!!",2026-01-13,09:45 AM,06:15 PM,8.50,present,Chennai,Morning
+A030,E030,"Sanjay Rao",2026-01-13,09:00 AM,06:00 PM,9.00,Present,Hyderabad,Morning
+A031,E999,"Ghost Employee",2026-01-13,09:00 AM,06:00 PM,9.00,Present,Hyderabad,Morning
+A032,E001,"Rahul Kumar",2026-02-30,09:15 AM,06:20 PM,9.08,Present,Hyderabad,Morning
+A033,E002,"Priya Reddy",2026-01-14,25:90,07:10 PM,9.08,Present,Hyderabad,Morning
+A034,E003,"Anita Sharma",2026-01-14,09:45 AM,06:00 PM,-8.25,Present,Bengaluru,Morning
+A035,E004,"John Doe",2026-01-14,09:30 AM,06:15 PM,8.75,LATE,Hyderabad,Morning
